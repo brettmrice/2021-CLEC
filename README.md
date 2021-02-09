@@ -2,7 +2,7 @@
 
 <div align="center">  
   
-<a href="https://youtu.be/yWh9SCFhIjU">![2021 CLEC Poster](2021_Poster_Submission)</a>
+<a href="https://youtu.be/yWh9SCFhIjU">![2021 CLEC Poster](2021_CLEC_Poster)</a>
   
 </div>
   
