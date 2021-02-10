@@ -2,7 +2,7 @@
 
 # 2021 CLEC Poster Presentation
 
-<a href="2021_CLEC_Poster.pdf">![2021 CLEC Poster](https://brettmrice.github.io/2021-CLEC/2021_CLEC_Poster.png)</a>
+<a href="2021_CLEC_Poster.pdf">![2021 CLEC Poster](2021_CLEC_Poster.png)</a>
   
 </div> 
 
