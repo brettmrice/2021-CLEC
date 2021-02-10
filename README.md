@@ -4,10 +4,8 @@
 
 <a href="2021_CLEC_Poster.pdf">![2021 CLEC Poster](2021_CLEC_Poster.png)</a>
   
-</div>
+</div> 
 
----  
----  
 
 ## Supplementals
 
@@ -18,12 +16,12 @@
 <a href="https://youtu.be/yWh9SCFhIjU">![Supplemental narration posted on YouTube](2021_Poster_Supplemental_Narration.png)</a>
   
 </div>
-  
-  
+
   
 ### CellaVision&copy; Proficiency Software Demo Logins 
 
-Contact me for new 
+Contact me for new/unused logins
+
 <div align="center">  
   
 Association | Username | Password
@@ -41,8 +39,15 @@ Demo10 | 7f612eae-c1a | wR26v93H
 
 </div>
   
-  
-  
+ 
 ### Data Export File Examples
 
 [Summary of results]()
+
+### Contact Information
+
+<div align="center">  
+  
+<a href="mailto:brrice@augusta.edu">![Business Card](Business_Card.png)</a>
+  
+</div>
