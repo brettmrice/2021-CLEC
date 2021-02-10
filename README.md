@@ -3,7 +3,7 @@
 
 <div align="center">  
   
-<a href="2021_CLEC_Poster.png">![2021 CLEC Poster](2021_CLEC_Poster.pdf)</a>
+<a href="2021_CLEC_Poster.pdf">![2021 CLEC Poster](2021_CLEC_Poster.pdf)</a>
 
 [Narration posted on YouTube](https://youtu.be/yWh9SCFhIjU)
   
