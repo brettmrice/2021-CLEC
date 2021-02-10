@@ -1,3 +1,5 @@
+[2021 CLEC Poster](2021_CLEC_Poster.png)
+
 <div align="center">  
   
 # 2021 CLEC Poster Presentation
@@ -13,7 +15,7 @@
 
 <div align="center">  
   
-<a href="https://youtu.be/yWh9SCFhIjU">![Supplemental narration posted on YouTube](https://brettmrice.com/2021-CLEC/2021_Poster_Supplemental_Narration.png)</a>
+<a href="https://youtu.be/yWh9SCFhIjU">![2021_Poster_Supplemental_Narration.png)</a>
   
 </div>
 
