@@ -1,4 +1,4 @@
-[2021 CLEC Poster](2021_CLEC_Poster.png)
+![2021 CLEC Poster](2021_CLEC_Poster.png)
 
 <div align="center">  
   
