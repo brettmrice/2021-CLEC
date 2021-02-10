@@ -2,7 +2,7 @@
 
 # 2021 CLEC Poster Presentation
 
-<a href="2021_CLEC_Poster.pdf">![2021 CLEC Poster](2021_CLEC_Poster.png)</a>
+<a href="2021_CLEC_Poster.pdf">![2021 CLEC Poster](./2021_CLEC_Poster.png)</a>
   
 </div> 
 
@@ -13,7 +13,7 @@
 
 <div align="center">  
   
-<a href="https://youtu.be/yWh9SCFhIjU">![Supplemental narration posted on YouTube](2021_Poster_Supplemental_Narration.png)</a>
+<a href="https://youtu.be/yWh9SCFhIjU">![Supplemental narration posted on YouTube](./2021_Poster_Supplemental_Narration.png)</a>
   
 </div>
 
@@ -48,6 +48,6 @@ Demo10 | 7f612eae-c1a | wR26v93H
 
 <div align="center">  
   
-<a href="mailto:brrice@augusta.edu">![Business Card](Business_Card.png)</a>
+<a href="mailto:brrice@augusta.edu">![Business Card](./Business_Card.png)</a>
   
 </div>
