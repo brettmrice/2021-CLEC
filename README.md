@@ -6,7 +6,9 @@
   
 </div>
 
-## Supplemental poster narration
+## Supplementals
+
+### Poster Narration
 
 <div align="center">  
   
@@ -14,10 +16,9 @@
   
 </div>
 
-[Supplemental narration posted on YouTube](https://youtu.be/yWh9SCFhIjU)
+### CellaVision&copy; Proficiency Software Demo Logins 
 
-Supplemental information to poster presentation and narration
-
+Contact me for new 
 <div align="center">  
   
 Association | Username | Password
@@ -35,3 +36,6 @@ Demo10 | 7f612eae-c1a | wR26v93H
 
 </div>
 
+### Data Export File Examples
+
+[Summary of results]()
