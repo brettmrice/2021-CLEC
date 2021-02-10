@@ -1,14 +1,20 @@
 # 2021 CLEC Poster Presentation
 
+<div align="center">  
+  
+<a href="2021_CLEC_Poster.pdf">![2021 CLEC Poster](2021_CLEC_Poster.png)</a>
+  
+</div>
+
+## Supplemental poster narration
 
 <div align="center">  
   
-<a href="2021_CLEC_Poster.pdf">![2021 CLEC Poster](2021_CLEC_Poster.pdf)</a>
-
-[Narration posted on YouTube](https://youtu.be/yWh9SCFhIjU)
+<a href="https://youtu.be/yWh9SCFhIjU">![Supplemental narration posted on YouTube](2021_Poster_Supplemental_Narration.png)</a>
   
 </div>
-  
+
+[Supplemental narration posted on YouTube](https://youtu.be/yWh9SCFhIjU)
 
 Supplemental information to poster presentation and narration
 
