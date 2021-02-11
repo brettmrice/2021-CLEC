@@ -1,0 +1,43 @@
+﻿WBC agreement
+
+Test: 09-08, 10, 15 CV S2
+Slide(s): Slide 1
+
+(All Participants compared to Examiner)
+
+Cell class;Examiner;;;User 2;;;User 3;;;User 4;;;User 5;;;User 6;;;User 7;;;User 8;;;User 9;;;User 10;;;User 11;;;User 12;;;User 13;;;User 14;;;User 15;;;User 16;;;User 17;;;User 18;;;User 19;;;User 20;;;User 21;;;User 22;;;User 23;;;User 24;;;User 25;;;User 26;;;Group;;
+;Count number;Count percentage;Examiner comment for "Slide 1";Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Count number;Agreement number;Count percentage;Average count number;Average percentage;
+Band neutrophil;1;0.95;;2;1;1.90;3;1;2.86;1;0;0.95;1;0;0.95;1;0;0.95;2;0;1.90;1;0;0.95;1;1;0.95;2;1;1.90;;;;3;1;2.86;3;1;2.86;1;1;0.95;1;1;0.95;2;0;1.90;1;1;0.95;2;0;1.90;;;;;;;1;0;0.95;1;0;0.95;1;0;0.95;;;;;;;;;;1.20;1.14;
+Segmented neutrophil;68;64.76;;67;67;63.81;66;66;62.86;68;67;64.76;67;67;63.81;67;67;63.81;61;61;58.10;69;68;65.71;67;67;63.81;67;67;63.81;70;68;66.67;66;66;62.86;66;66;62.86;68;68;64.76;67;67;63.81;65;65;61.90;68;68;64.76;63;63;60.00;65;65;61.90;67;67;63.81;68;67;64.76;67;67;63.81;68;67;64.76;69;68;65.71;63;63;60.00;69;68;65.71;66.72;63.54;
+Eosinophil;;;;1;0;0.95;;;;;;;;;;;;;4;0;3.81;;;;;;;;;;;;;;;;;;;;;;;;;1;0;0.95;;;;;;;;;;1;0;0.95;;;;;;;;;;;;;2;0;1.90;;;;0.36;0.34;
+Basophil;1;0.95;;;;;;;;1;1;0.95;;;;1;1;0.95;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;1;0.95;0.12;0.11;
+Lymphocyte;28;26.67;;26;26;24.76;25;25;23.81;28;28;26.67;25;25;23.81;28;28;26.67;21;21;20.00;28;28;26.67;25;25;23.81;24;24;22.86;29;28;27.62;25;25;23.81;25;25;23.81;25;25;23.81;26;26;24.76;25;25;23.81;25;25;23.81;30;28;28.57;21;21;20.00;25;25;23.81;29;28;27.62;25;25;23.81;27;27;25.71;26;26;24.76;18;18;17.14;28;28;26.67;25.56;24.34;
+Monocyte;3;2.86;;3;1;2.86;5;3;4.76;2;2;1.90;5;3;4.76;3;3;2.86;12;2;11.43;3;3;2.86;8;3;7.62;3;3;2.86;1;1;0.95;5;3;4.76;6;3;5.71;7;3;6.67;3;3;2.86;5;3;4.76;6;3;5.71;6;3;5.71;14;2;13.33;6;3;5.71;3;3;2.86;5;3;4.76;3;2;2.86;5;3;4.76;3;1;2.86;3;3;2.86;5.00;4.76;
+Promyelocyte;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Myelocyte;;;;;;;2;0;1.90;;;;;;;1;0;0.95;1;0;0.95;;;;;;;;;;;;;1;0;0.95;;;;;;;3;0;2.86;1;0;0.95;;;;;;;;;;;;;;;;2;0;1.90;1;0;0.95;;;;2;0;1.90;;;;0.56;0.53;
+Metamyelocyte;2;1.90;;1;0;0.95;;;;;;;2;0;1.90;;;;;;;;;;;;;;;;;;;1;0;0.95;;;;;;;;;;1;0;0.95;;;;;;;;;;;;;;;;1;0;0.95;;;;1;0;0.95;1;1;0.95;;;;0.32;0.30;
+Promonocyte;;;;1;0;0.95;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;0;0.95;;;;;;;;;;0.08;0.08;
+Prolymphocyte;;;;;;;;;;;;;1;0;0.95;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.04;0.04;
+Blast;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;0;0.95;;;;;;;;;;;;;;;;1;0;0.95;1;0;0.95;;;;;;;2;0;1.90;;;;;;;;;;;;;;;;;;;0.20;0.19;
+Lymphocyte, variant form;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Reactive lymphocyte;;;;;;;;;;1;0;0.95;;;;;;;;;;;;;;;;;;;1;0;0.95;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;0;2.86;;;;0.20;0.19;
+Abnormal lymphocyte;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;6;0;5.71;;;;0.24;0.23;
+Plasma cell;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Large granular lymphocyte;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;6;0;5.71;;;;0.24;0.23;
+Hairy cell;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Sézary cell;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Other;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Nucleated RBC;;;;;;;;;;;;;;;;;;;;;;;;;;;;4;0;3.81;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.16;0.15;
+Giant thrombocyte;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Thrombocyte aggregation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Megakaryocyte;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Smudge cell;1;0.95;;1;1;0.95;1;1;0.95;1;1;0.95;1;1;0.95;1;1;0.95;3;1;2.86;2;1;1.90;1;1;0.95;1;1;0.95;1;1;0.95;1;1;0.95;2;1;1.90;4;1;3.81;2;1;1.90;;;;2;1;1.90;2;1;1.90;4;1;3.81;1;1;0.95;3;1;2.86;4;1;3.81;1;1;0.95;2;1;1.90;1;0;0.95;1;1;0.95;1.72;1.64;
+Artefact;1;0.95;;3;1;2.86;3;1;2.86;3;1;2.86;3;1;2.86;3;1;2.86;1;0;0.95;2;0;1.90;3;1;2.86;3;1;2.86;3;1;2.86;3;1;2.86;3;1;2.86;;;;3;1;2.86;4;1;3.81;2;0;1.90;2;1;1.90;1;0;0.95;3;1;2.86;1;1;0.95;;;;3;1;2.86;2;0;1.90;;;;3;1;2.86;2.28;2.17;
+Not classed;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Abn WBC;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+The following participant(s) didn't sign the selected slides(s) and were excluded from the results:
+You
+User 1
+
+CellaVision Proficiency Software;105;
