@@ -4,10 +4,10 @@
 
 ### Poster Narration
 
-[Full narration, ~18 minutes](https://youtu.be/w-L-oWvn_UY)  or select video pieces:
-* [Poster and project introduction](https://youtu.be/w-L-oWvn_UY)
-* [Using CPS]()
-* [CPS Feedback Examples]()
+[Full narration](https://youtu.be/w-L-oWvn_UY), ~18 minutes  or select video pieces:
+* [Poster and project introduction](https://youtu.be/w-L-oWvn_UY), ~5 minutes duration
+* [Using CPS](https://youtu.be/w-L-oWvn_UY?t=302),  ~7 minutes duration
+* [CPS Feedback Examples](https://youtu.be/w-L-oWvn_UY?t=749),  ~5 minutes duration
   
 ### CellaVision&copy; Proficiency Software Demo Logins 
 
