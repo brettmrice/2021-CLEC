@@ -4,17 +4,15 @@
 
 ### Poster Narration
 
-[Full narration](https://youtu.be/w-L-oWvn_UY), ~18 minutes  or select video pieces:
+[Full narration](https://youtu.be/w-L-oWvn_UY), ~17 minutes  or select video pieces:
 * [Poster and project introduction](https://youtu.be/w-L-oWvn_UY), ~5 minutes duration
 * [Using CPS](https://youtu.be/w-L-oWvn_UY?t=302),  ~7 minutes duration
-* [CPS Feedback Examples](https://youtu.be/w-L-oWvn_UY?t=749),  ~5 minutes duration
+* [CPS Feedback Examples](https://youtu.be/w-L-oWvn_UY?t=725),  ~5 minutes duration
   
 ### CPS Demo Logins 
 
 Contact me for new and unused login
   
-<table class="center">
-
 Association | Username | Password
 ----------- | -------- | ---------
 Demo1 | a8ff1568-3ed | 569f9wRY
@@ -27,13 +25,8 @@ Demo7 | 2ff5a206-a1d | j3865E4C
 Demo8 | 42337a87-e75 | DJ3x387S
 Demo9 | d0eb10a0-b2e | dAKq6dFR
 Demo10 | 7f612eae-c1a | wR26v93H
+  
 
-</table>
-
-
-
-
- 
 ### Data Export File Examples
 
 * Slide 1 
