@@ -6,13 +6,13 @@
 
 ### Poster Narration
 
-<a href="https://youtu.be/yWh9SCFhIjU">![2021_Poster_Supplemental_Narration.png)</a>
+<a href="https://youtu.be/yWh9SCFhIjU">![2021 Poster Narration](2021_Poster_Supplemental_Narration.png)</a>
   
 ### CellaVision&copy; Proficiency Software Demo Logins 
 
 Contact me for new and unused login
   
-<p align="center">
+<p align="center">  
   
 Association | Username | Password
 ----------- | -------- | ---------
