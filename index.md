@@ -28,7 +28,18 @@ Demo10 | 7f612eae-c1a | wR26v93H
  
 ### Data Export File Examples
 
-[Summary of results](https://brettmrice.com/2021-CLEC/)
+* Slide 1 
+  * [Summary of results](Exports/S1 Exports/Summary_of_resutls.csv)
+  * [WBC classes](Exports/S1 Exports/WBC_classes.csv)
+  * [RBC characterization](Exports/S1 Exports/RBC_characterization.csv)
+* Slide 2  
+  * [Summary of results](Exports/S2 Exports/Summary_of_resutls.csv)
+  * [WBC classes](Exports/S2 Exports/WBC_classes.csv)
+  * [RBC characterization](Exports/S2 Exports/RBC_characterization.csv)
+* Slide 3  
+  * [Summary of results](Exports/S3 Exports/Summary_of_resutls.csv)
+  * [WBC classes](Exports/S3 Exports/WBC_classes.csv)
+  * [RBC characterization](Exports/S3 Exports/RBC_characterization.csv)
 
 ### Contact Information
 
