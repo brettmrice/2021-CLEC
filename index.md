@@ -6,7 +6,7 @@
 
 ### Poster Narration
 
-<a href="https://youtu.be/yWh9SCFhIjU">![2021 Poster Narration](2021_Poster_Supplemental_Narration.png)</a>
+[Posted on YouTube](https://youtu.be/w-L-oWvn_UY)
   
 ### CellaVision&copy; Proficiency Software Demo Logins 
 
