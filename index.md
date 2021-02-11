@@ -12,6 +12,8 @@
 ### CPS Demo Logins 
 
 Contact me for new and unused login
+
+<p align="center">
   
 Association | Username | Password
 ----------- | -------- | ---------
@@ -26,13 +28,16 @@ Demo8 | 42337a87-e75 | DJ3x387S
 Demo9 | d0eb10a0-b2e | dAKq6dFR
 Demo10 | 7f612eae-c1a | wR26v93H
   
+</p>
 
 ### Data Export File Examples
 
-* Slide 1 
+<details>
+* <summary>Slide 1</summary>
   * [Summary of results](<Exports/S1 Exports/Summary_of_resutls.csv>)
   * [WBC classes](<Exports/S1 Exports/WBC_classes.csv>)
   * [RBC characterization](<Exports/S1 Exports/RBC_characterization.csv>)
+  </details>
 <details>
 * <summary>Slide 2</summary>
   
@@ -51,8 +56,10 @@ Demo10 | 7f612eae-c1a | wR26v93H
 ### Contact Information
 
 <details>
-* <summary>Business Card</summary>
+<summary>Business Card</summary>
   
-<a href="mailto:brrice@augusta.edu">![Business Card](https://brettmrice.com/2021-CLEC/Business_Card.png)</a>
+<p align="center">
+<a href="mailto:brrice@augusta.edu"><img src="https://brettmrice.com/2021-CLEC/Business_Card.png" width=500></a>
+</p>
 </details>
 
