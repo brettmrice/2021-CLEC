@@ -9,7 +9,7 @@
 * [Using CPS](https://youtu.be/w-L-oWvn_UY?t=302),  ~7 minutes duration
 * [CPS Feedback Examples](https://youtu.be/w-L-oWvn_UY?t=749),  ~5 minutes duration
   
-### CellaVision&copy; Proficiency Software Demo Logins 
+### CPS Demo Logins 
 
 Contact me for new and unused login
   
