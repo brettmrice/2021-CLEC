@@ -30,8 +30,7 @@ Demo7 | 2ff5a206-a1d | j3865E4C
 Demo8 | 42337a87-e75 | DJ3x387S
 Demo9 | d0eb10a0-b2e | dAKq6dFR
 Demo10 | 7f612eae-c1a | wR26v93H
-
-</div>  
+  
  
 ### Data Export File Examples
 
@@ -39,8 +38,6 @@ Demo10 | 7f612eae-c1a | wR26v93H
 
 ### Contact Information
 
-
-  
 <a href="mailto:brrice@augusta.edu">![Business Card](https://brettmrice.com/2021-CLEC/Business_Card.png)</a>
   
 
