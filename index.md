@@ -16,7 +16,7 @@ Contact me for new and unused login
 <p align="center">
   
 Association | Username | Password
------------ | -------- | ---------
+----------- | :-----------: | :-----------:
 Demo1 | a8ff1568-3ed | 569f9wRY
 Demo2 | 3bff2c27-0e2 | nWz86c5N
 Demo3 | 18bd73a4-e0a | 22tA866G
