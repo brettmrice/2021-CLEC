@@ -12,7 +12,7 @@
 
 Contact me for new and unused login
   
-<p align="center">  
+<center>  
   
 Association | Username | Password
 ----------- | -------- | ---------
@@ -27,7 +27,7 @@ Demo8 | 42337a87-e75 | DJ3x387S
 Demo9 | d0eb10a0-b2e | dAKq6dFR
 Demo10 | 7f612eae-c1a | wR26v93H
   
-</p>
+</center>
  
 ### Data Export File Examples
 
