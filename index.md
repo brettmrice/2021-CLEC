@@ -6,17 +6,13 @@
 
 ### Poster Narration
 
-  
 <a href="https://youtu.be/yWh9SCFhIjU">![2021_Poster_Supplemental_Narration.png)</a>
-  
-
-
   
 ### CellaVision&copy; Proficiency Software Demo Logins 
 
-Contact me for new/unused logins
-
-
+Contact me for new and unused login
+  
+<p align="center">
   
 Association | Username | Password
 ----------- | -------- | ---------
@@ -31,6 +27,7 @@ Demo8 | 42337a87-e75 | DJ3x387S
 Demo9 | d0eb10a0-b2e | dAKq6dFR
 Demo10 | 7f612eae-c1a | wR26v93H
   
+</p>
  
 ### Data Export File Examples
 
