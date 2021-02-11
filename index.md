@@ -12,8 +12,6 @@
 ### CPS Demo Logins 
 
 Contact me for new and unused login
-
-<p align="center">
   
 Association | Username | Password
 ----------- | :-----------: | :-----------:
@@ -27,8 +25,6 @@ Demo7 | 2ff5a206-a1d | j3865E4C
 Demo8 | 42337a87-e75 | DJ3x387S
 Demo9 | d0eb10a0-b2e | dAKq6dFR
 Demo10 | 7f612eae-c1a | wR26v93H
-  
-</p>
 
 ### Data Export File Examples
 
