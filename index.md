@@ -2,15 +2,6 @@
 
 <a href="2021_CLEC_Poster.pdf">![2021 CLEC Poster](2021_CLEC_Poster.png)</a>
 
- 
-  
-# 2021 CLEC Poster Presentation
-  
-<a href="2021_CLEC_Poster.pdf">![2021 CLEC Poster](2021_CLEC_Poster.png)</a>
-  
-
-
-
 ## Supplementals
 
 ### Poster Narration
