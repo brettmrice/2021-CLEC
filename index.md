@@ -29,7 +29,7 @@ Demo10 | 7f612eae-c1a | wR26v93H
 ### Data Export File Examples
 
 <details>
-* <summary>Slide 1</summary>
+<summary>Slide 1</summary>
   
   * [Summary of results](<Exports/S1 Exports/Summary_of_resutls.csv>)
   * [WBC classes](<Exports/S1 Exports/WBC_classes.csv>)
@@ -37,7 +37,7 @@ Demo10 | 7f612eae-c1a | wR26v93H
   </details>
   
 <details>
-* <summary>Slide 2</summary>
+<summary>Slide 2</summary>
   
   * [Summary of results](<Exports/S2 Exports/Summary_of_resutls.csv>)
   * [WBC classes](<Exports/S2 Exports/WBC_classes.csv>)
@@ -45,7 +45,7 @@ Demo10 | 7f612eae-c1a | wR26v93H
   </details>
   
 <details>
-* <summary>Slide 3</summary>
+<summary>Slide 3</summary>
   
   * [Summary of results](<Exports/S3 Exports/Summary_of_resutls.csv>)
   * [WBC classes](<Exports/S3 Exports/WBC_classes.csv>)
