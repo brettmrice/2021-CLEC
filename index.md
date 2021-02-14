@@ -31,9 +31,9 @@ Demo10 | 7f612eae-c1a | wR26v93H
 <details>
 <summary>Slide 1</summary>
   
-* [Summary of results](<Exports/S1_Exports/Summary_of_resutls.csv>)  
-* [WBC classes](<Exports/S1_Exports/WBC_classes.csv>)  
-* [RBC characterization](<Exports/S1_Exports/RBC_characterization.csv>)  
+ * [Summary of results](<Exports/S1_Exports/Summary_of_resutls.csv>)  
+ * [WBC classes](<Exports/S1_Exports/WBC_classes.csv>)  
+ * [RBC characterization](<Exports/S1_Exports/RBC_characterization.csv>)  
 </details>
   
 <details>
