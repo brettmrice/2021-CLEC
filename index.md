@@ -39,17 +39,17 @@ Demo10 | 7f612eae-c1a | wR26v93H
 <details>
 <summary>Slide 2</summary>
   
-[Summary of results](<Exports/S2 Exports/Summary_of_resutls.csv>)
-[WBC classes](<Exports/S2 Exports/WBC_classes.csv>)
-[RBC characterization](<Exports/S2 Exports/RBC_characterization.csv>)
+ * [Summary of results](<Exports/S2 Exports/Summary_of_resutls.csv>)
+ * [WBC classes](<Exports/S2 Exports/WBC_classes.csv>)
+ * [RBC characterization](<Exports/S2 Exports/RBC_characterization.csv>)
 </details>
   
 <details>
 <summary>Slide 3</summary>
   
-[Summary of results](<Exports/S3 Exports/Summary_of_resutls.csv>)
-[WBC classes](<Exports/S3 Exports/WBC_classes.csv>)
-[RBC characterization](<Exports/S3 Exports/RBC_characterization.csv>)
+ * [Summary of results](<Exports/S3 Exports/Summary_of_resutls.csv>)
+ * [WBC classes](<Exports/S3 Exports/WBC_classes.csv>)
+ * [RBC characterization](<Exports/S3 Exports/RBC_characterization.csv>)
 </details>
  
 ### Contact Information
