@@ -1,5 +1,8 @@
 theme: jekyll-theme-slate
 markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "tables"]
 
 title: 2021 CLEC Poster Presentation
 description: Suppmlemental information to poster
