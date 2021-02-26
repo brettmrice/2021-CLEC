@@ -29,6 +29,16 @@ Demo8 | 42337a87-e75 | DJ3x387S
 Demo9 | d0eb10a0-b2e | dAKq6dFR
 Demo10 | 7f612eae-c1a | wR26v93H
 
+### CPS Slide Files
+
+If you already have access to CPS, then here are some slide files of various cell morphologies:
+
+<details>
+<summary>Comming soon!</summary>
+  
+ * Not here yet 
+</details>
+
 ### Data Export File Examples
 
 <details>
