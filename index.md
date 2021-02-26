@@ -11,6 +11,9 @@
   
 ### CPS Demo Logins 
 
+Link: [Cellavision Proficiency Software](https://login.cellavision-proficiency-software.com)
+ * 02-22-2021 Update - CPS can now be accessed from Firefox and Chrome
+
 Contact me for new and unused login
   
 Association | Username | Password
